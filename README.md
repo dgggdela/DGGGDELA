@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**dgggdela/DGGGDELA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Diogo Hermeto
 
-Here are some ideas to get you started:
+- Eu estou estudando no alura
+- Estou me desenvolvendo na liguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📧
+
+- di.hermeto@gmail.com
+-
+-  @dg_hermeto
+
+
+![](https://media1.tenor.com/m/7jKc6tYUQpEAAAAC/renato-cariani-cariani.gif)
